@@ -1,0 +1,3 @@
+Para virtualenv, você utiliza o comando source <env>/bin/activate no Linux/macOS ou <env>\Scripts\activate no Windows. 
+
+E para venv, o comando é source <env>/bin/activate no Linux/macOS ou <env>\Scripts\activate no Windows, também.
