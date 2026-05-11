@@ -23,6 +23,7 @@ Esta aplicação foi criada com o objetivo de aprender conceitos importantes do 
  
 ## 🛠️ Tecnologias Utilizadas
 - Python 3.10+
+- FastAPI
 - Flask
 - Virtual Environment (venv)
 - Requests
